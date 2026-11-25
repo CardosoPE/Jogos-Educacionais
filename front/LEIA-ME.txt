@@ -1,0 +1,13 @@
+FRONT - Jogos Educativos (HTML/CSS/JS puros, sem instalar nada)
+
+Abra login.html com duplo clique. "Entrar" leva para home.html; la, clique em
+"Xadrez" para jogar (funciona offline, direto no navegador).
+
+login.html        tela de entrada (matricula, senha)
+home.html         tela apos o login (nome, turma, faixa etaria, jogos)
+xadrez.html       jogo de xadrez (2 jogadores ou contra o computador)
+css/              estilo.css (geral), xadrez.css (xadrez)
+js/               login.js, xadrez.js (tela), xadrez-motor.js (regras e computador)
+
+Procure os comentarios "BACK-END" nos HTML: indicam onde ligar os dados reais.
+Sem links externos, fontes ou bibliotecas de terceiros.
